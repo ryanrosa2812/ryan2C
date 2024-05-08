@@ -1,0 +1,22 @@
+body {
+    background-color: #00a6f3;
+    color: white;
+    }
+    header {
+        background-color: #00a6f3;
+        color: white;
+        }
+.cabecalho-imagem{
+    width: 20%;
+}
+.cabecalho {
+background-color: #00a6f3;
+color: rgb(253, 93, 0);
+display:flex;
+}
+.cabecalho-lista-item{
+display: inline-block;
+margin: 0 16px;
+justify-content: space-around;
+padding: 24px 0;
+}
