@@ -20,3 +20,22 @@ margin: 0 16px;
 justify-content: space-around;
 padding: 24px 0;
 }
+.estudante-titulo{
+    text-align: center;
+    }
+    .estudante-todos {
+    display:grid;
+    }
+    .estudante-todos {
+        display:grid;
+        grid-template-columns: 20% 20% 20% 20%;
+          }
+          footer{
+            background-color: black;
+            padding: 15px 0;
+          }
+          footer{
+            background-color: black;
+            padding: 15px 0;
+            text-align: center;
+            }
